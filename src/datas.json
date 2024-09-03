@@ -1,0 +1,54 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Article 1",
+            "content": "Contenu de l'article 1",
+            "author": "Jano",
+            "date": "2021-09-01"
+        },
+        {
+            "id": 2,
+            "title": "Article 2",
+            "content": "Contenu de l'article 2",
+            "author": "Bill",
+            "date": "2021-09-02"
+        },
+        {
+            "id": 3,
+            "title": "Article 3",
+            "content": "Contenu de l'article 3",
+            "author": "Sandrine",
+            "date": "2021-09-03"
+        },
+        {
+            "id": 4,
+            "title": "Article 4",
+            "content": "Contenu de l'article 4",
+            "author": "Jean",
+            "date": "2021-09-04"
+        }
+    ],
+    "about": [
+        {
+            "title": "Our Mission",
+            "content": "To deliver quality services that exceed our clients' expectations."
+        },
+        {
+            "title": "Our Vision",
+            "content": "To be a leader in the industry by providing innovative and effective solutions."
+        },
+        {
+            "title": "Our Values",
+            "content": "Integrity, Commitment, Excellence, and Collaboration."
+        },
+        {
+            "title": "History",
+            "content": "Founded in 2010, our company has grown from a small startup to an industry leader."
+        },
+        {
+            "title": "Team Philosophy",
+            "content": "We believe in the power of teamwork and strive to create a collaborative environment."
+        }
+    ]
+}
